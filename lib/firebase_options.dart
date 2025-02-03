@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAlyEaEnJgzfcdtf_3Qt9hQyyVYBw5smtU',
+    apiKey: 'api-key',
     appId: '1:123254754378:web:89394e80b49c3e8a81aab3',
     messagingSenderId: '123254754378',
     projectId: 'mental-wellness-companion',
